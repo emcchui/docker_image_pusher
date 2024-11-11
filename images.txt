@@ -1,1 +1,16 @@
-apache/activemq-classic:5.17.6
+mysql:9.1.0
+mysql:9
+mysql:8.4.3
+mysql:8.4.2
+mysql:8.4
+mysql:8.0.40
+mysql:8.0
+mysql:5.5.53
+mysql:5.7.16
+mysql:5.5.52
+mysql:5.7.15
+mysql:5.7.13
+mysql:5.5.50
+mysql:5.6.32
+mysql:5.5.49
+mysql:5.5.48
