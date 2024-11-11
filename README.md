@@ -39,6 +39,14 @@ ALIYUN_NAME_SPACE,ALIYUN_REGISTRY_USER，ALIYUN_REGISTRY_PASSWORD，ALIYUN_REGIS
 配置成环境变量
 
 ### 添加镜像
+
+nginx
+#支持私库
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+xhofe/alist:latest
+#支持指定架构
+--platform=linux/arm64 xiaoyaliu/alist
+
 打开images.txt文件，添加你想要的镜像 
 可以加tag，也可以不用(默认latest)<br>
 可添加 --platform=xxxxx 的参数指定镜像架构<br>
