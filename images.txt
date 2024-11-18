@@ -1,6 +1,8 @@
-nacos/nacos-server:v2.2.0
-nacos/nacos-server:v2.4.2
-nacos/nacos-server:v2.4.0
-nacos/nacos-server:v2.3.2
-nacos/nacos-server:v2.3.0
-symptoma/activemq:5.16.4
+bitnami/redis:5.0.14
+bitnami/redis:5.0
+bitnami/redis:5.0.0-r7
+bitnami/redis:4.0.14-debian-10-r23
+bitnami/redis:4.0.14-ol-7-r337
+ubuntu/redis:6.0-22.04_edge
+ubuntu/redis:6.0-22.04_beta
+ubuntu/redis:5.0-20.04_edge
