@@ -1,7 +1,18 @@
-rabbitmq:4.1.0-beta.1-management
-rabbitmq:4.0.3
-rabbitmq:4.0
-rabbitmq:3.9.11-management-alpine
-rabbitmq:3.9.11-management
-rabbitmq:3.9.11
-rabbitmq:3.9.11-alpine
+
+docker pull jenkinsci/blueocean:1.25.0.1
+docker pull jenkinsci/blueocean:1.25.3
+docker pull jenkinsci/blueocean:1.24.7
+docker pull jenkinsci/blueocean:1.24.5
+docker pull jenkins/jenkins:2.319.3-centos7-jdk8
+docker pull jenkins/jenkins:2.319.3-rhel-ubi8-jdk11
+docker pull jenkins/jenkins:2.319.3-almalinux
+docker pull jenkins/jenkins:2.319.3-jdk8
+docker pull jenkins/jenkins:2.319.3-slim
+docker pull jenkins/jenkins:2.319.3-alpine
+docker pull jenkins/jenkins:2.319.3
+docker pull jenkins/jenkins:jdk17
+docker pull jenkins/jenkins:jdk21
+docker pull jenkins/jenkins:2.490-jdk21
+docker pull jenkins/jenkins:2.490-jdk17
+docker pull jenkins/jenkins:2.490
+docker pull jenkins/jenkins:2.490-slim-jdk21
