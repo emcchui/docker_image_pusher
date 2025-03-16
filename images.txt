@@ -1,1 +1,1 @@
-docker pull dyrnq/open-webui:git-349fd0c
+pull dyrnq/open-webui:git-349fd0c
