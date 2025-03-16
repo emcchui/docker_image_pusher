@@ -1,1 +1,1 @@
-pull dyrnq/open-webui:git-349fd0c
+dyrnq/open-webui:git-349fd0c
