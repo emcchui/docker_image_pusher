@@ -1,13 +1,1 @@
-jgraph/drawio:26.2.15
-jgraph/drawio:26.2.8
-jgraph/drawio:26.1.1
-jgraph/drawio:26.1.0
-jgraph/drawio:26.0.16
-jgraph/drawio:26.0.6
-jgraph/drawio:26.0.0
-jgraph/drawio:24.6.1
-jgraph/drawio:24.5.5
-jgraph/drawio:24.0.8
-jgraph/drawio:24.0.0
-jgraph/drawio:22.1.22
-jgraph/drawio:21.6.8
+elasticsearch:7.16.3
