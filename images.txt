@@ -1,1 +1,1 @@
-node:18-alpine
+nginxinc/nginx-unprivileged:alpine3.21-perl
