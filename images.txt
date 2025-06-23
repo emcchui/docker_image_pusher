@@ -1,1 +1,1 @@
-nginxinc/nginx-unprivileged:alpine3.21-perl
+sonarqube:9.9.3-community
