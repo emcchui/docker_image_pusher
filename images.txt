@@ -1,3 +1,1 @@
-jenkins/jenkins:2.516-jdk21
-jenkins/jenkins:2.516
-jenkins/jenkins:jdk17
+elasticsearch:7.12.1
