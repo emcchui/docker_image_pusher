@@ -1,1 +1,5 @@
-shokohsc/jsoncrack:latest
+jgraph/drawio:28.0.6
+jgraph/drawio:28.0.5
+jgraph/drawio:27.1.6
+jgraph/drawio:26.1.1
+jgraph/drawio:26.0.0
