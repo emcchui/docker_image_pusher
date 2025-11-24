@@ -1,5 +1,12 @@
-jgraph/drawio:28.0.6
-jgraph/drawio:28.0.5
-jgraph/drawio:27.1.6
-jgraph/drawio:26.1.1
-jgraph/drawio:26.0.0
+gitea/gitea:main-nightly-rootless
+gitea/gitea:main-nightly
+gitea/gitea:1.25-nightly
+gitea/gitea:1.25-nightly-rootless
+gitea/gitea:1.25-rootless
+gitea/gitea:1.25.2-rootless
+gitea/gitea:1-rootless
+gitea/gitea:1.25
+gitea/gitea:1.25.2
+gitea/gitea:1.24-nightly
+gitea/gitea:1.24-nightly-rootless
+gitea/gitea:1.25.0-rootless
